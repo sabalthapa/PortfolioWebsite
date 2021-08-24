@@ -1,0 +1,302 @@
+                                                /* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@600;700;900&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.img1{
+
+    float: right;
+    margin-top: 0;
+    padding-top: 1px;
+    height: 512px;
+    padding-right: 108px;
+    
+}
+.introduction{
+padding-top: 41px;
+    font-size: 5em;
+}
+.sabalthapa{
+    padding-top: 32px;
+}
+.tag{
+    padding-bottom: 0px;
+    margin-top: 3px;
+    font-size: 2em;
+  
+}
+.list{
+    float: right;
+    padding-right: 34px;
+    padding-top: 25px;
+ 
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+}
+.atags{
+    padding-bottom: 3px;
+    overflow:hidden;
+  
+
+}
+.navbar{
+    border-bottom: solid #bbb;
+    padding-top: 14px;
+    background-color: currentColor;
+}
+.a1{
+    list-style: none;
+    text-decoration: none;
+    color: #bbb;
+ 
+    font-size: 20px;
+
+}
+.a1:hover{
+    text-decoration: underline;
+    color: white;
+    text-decoration-color: blue;
+    
+}
+.atag2{
+    color:#bbb;
+}
+.hello{
+    color: rgb(78, 78, 235);
+    font-family: 'Prompt', sans-serif;
+    padding-left: 24px;
+}
+.name{
+    color: rgb(198, 78, 235);
+    font-family: 'Prompt', sans-serif;
+    padding-left:24px;
+    
+}
+.welcome{
+    color: rgb(165, 245, 99);
+    font-family: 'Prompt', sans-serif;
+    padding-left: 24px;
+}
+.tomywebsite{
+    color:rgb(194, 47, 121);
+    font-family: 'Prompt', sans-serif;
+    padding-left: 24px;
+}
+#bx{
+    font-size: 40px;
+}
+.github{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    padding-right: 12px;
+
+}
+.facebook{
+    padding-right: 12px;
+}
+.fafaicons{
+ 
+    margin-top: 8px;
+    margin-right: 26px;
+    padding-left: 24px;
+
+}
+
+.h11{
+    background : linear-gradient(90deg, rgba(24,255,85,1) 0%, rgba(121,9,9,1) 35%, rgba(189,121,213,1) 89%);
+    padding-top:9px;
+    padding-bottom: 9px;
+    text-align: center;
+  color: aqua;
+  font-size: 2em;
+
+}
+
+.p1{
+    width: 597px;
+    background : linear-gradient(90deg, rgba(24,255,85,1) 0%, rgba(121,9,9,1) 35%, rgba(189,121,213,1) 89%);
+    border: inset yellowgreen;
+    border-width: 18px;
+    color: white;
+    font-size: 18px;
+    font-family: ui-serif;
+    margin-left: 752px;
+}
+.paragraph2{
+    border: inset blue;
+    width: 715px;
+    border-width: 14px;
+}
+.p2{
+    background: #ae00ff;
+    color: white;
+    font-size: 18px;
+}
+.h12{
+    background-color: blue;
+    color: White;
+    text-align: center;
+    padding: 5px;
+}
+
+.mainform {
+    border: solid 5px;
+    margin-right: 532px;
+    border-color: rgb(140, 0, 255);
+    margin-left: 530px;
+    padding-left: 13px;
+    margin-top: 2em;
+    padding-bottom: 21px;
+}
+input.one {
+    width: 217px;
+    padding: 12px;
+    margin-left: 12px;
+    border-radius: 10px;
+}
+
+input.two{
+    width: 217px;
+    padding: 12px;
+    margin-left: 12px;
+    border-radius: 10px; 
+}
+textarea{
+    margin-left: 11px;
+    resize: none;
+    height: 100px;
+    width: 250px;
+}
+
+.body1{
+    background-image:url(formbackground.jpg);
+}
+.btn1 {
+    color: white;
+    margin-left: 10px;
+    padding-bottom: 9px;
+    width: 233px;
+    padding-top: 15px;
+    border-radius: 7px;
+    background: #3e3eff;
+    border: none;
+    font-size: 12px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    margin: top 10px;
+}
+.btn1:hover {
+    color: #00ff2b;
+    background: blue;
+    font-weight: 700;
+    font-size: 15px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+label{
+    font-family:'Abril Fatface', cursive;
+    color:rgb(61, 98, 19);
+    font-size: 19px;
+}
+.two:active{
+    background: #bbb;
+}
+.two{
+    font-family:'Abril Fatface', cursive;
+    font-size: 18px;
+}
+.one{
+    font-family:'Abril Fatface', cursive;
+    font-size: 18px;
+}
+.one:hover{
+    background: #bbb;
+
+font-family:  'Abril Fatface', cursive;
+
+}
+img.coding3 {
+    width: 400px;
+margin: 0px;
+padding: 0px;
+margin-top: -403px;
+margin-right: 11px;
+}
+.coding4{
+    padding-right: 443px;
+    text-align: justify;
+
+}
+.coding{
+    font-size: 23px;
+    
+ font-size: 2em;
+    font-family: Verdana;
+    color:black;
+
+}
+.coding1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+                                          /* Gaming */
+.gaming{
+    width: 400px;
+}
+.gamingtext{
+    font-size: 2em;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+.gamingtext1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+.gaming1{
+font-size: 23px;
+font-family: 'Abril Fatface', cursive;;
+}
+                              /* Football */
+   .football1 {
+height: 354px;
+width: 400px;;
+
+ }
+ .football2{
+font-size: 24px;
+
+
+  }
+  .football{
+      font-size: 2em;
+  
+  }
+  .football1st{
+    text-align: center;
+      justify-content: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
